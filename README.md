@@ -135,11 +135,19 @@ VITE_SOME_URL=ai api hosted link or locally then http://localhost:5000
 
 ---
 
-## 🎨 Screenshots (Insert during documentation)
+## 🎨 Screenshots
 
-1. **Agent Selection Screen** – Screenshot: `screenshots/agent-selection.png`
-2. **Agent 1 Chat Interface** – Screenshot: `screenshots/agent1-chat.png`
-3. **Agent 2 Chat Interface** – Screenshot: `screenshots/agent2-chat.png`
+1. **Home Screen**  
+   ![Home Screen](https://github.com/abhaydixit07/multi-agent-real-estate-chatbot/blob/main/images/Screenshot%202025-04-14%20022409.png?raw=true)
+
+2. **Agent 1 Chat Interface**  
+   ![Agent 1 Chat Interface](https://github.com/abhaydixit07/multi-agent-real-estate-chatbot/blob/main/images/Screenshot%202025-04-14%20022602.png?raw=true)
+
+3. **Agent 2 Chat Interface**  
+   ![Agent 2 Chat Interface](https://github.com/abhaydixit07/multi-agent-real-estate-chatbot/blob/main/images/Screenshot%202025-04-14%20022636.png?raw=true)
+
+4. **Agent 2 Chat Interface (Alternate View)**  
+   ![Agent 2 Chat Interface](https://github.com/abhaydixit07/multi-agent-real-estate-chatbot/blob/main/images/Screenshot%202025-04-14%20022701.png?raw=true)
 
 ---
 
@@ -166,3 +174,4 @@ A walkthrough video of the working chatbot is available here:
 
 This project is licensed under the **MIT License**.
 🔗 [MIT LICENSE](https://github.com/abhaydixit07/multi-agent-real-estate-chatbot/blob/main/LICENSE)
+
