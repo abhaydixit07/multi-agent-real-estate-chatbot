@@ -159,11 +159,6 @@ A walkthrough video of the working chatbot is available here:
 
 ---
 
-## 💼 Author & Credits
-
-Built by [Your Name] as part of the PropertyLoop Assessment.
-
----
 
 ## 📄 License
 
