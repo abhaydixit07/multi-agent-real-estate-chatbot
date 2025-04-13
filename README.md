@@ -151,13 +151,13 @@ VITE_SOME_URL=ai api hosted link or locally then http://localhost:5000
 
 ---
 
-## 📹 Demo Video (Replace with actual link)
+## 📹 Demo Video
 
 A walkthrough video of the working chatbot is available here:
 
-🔗 [Watch Demo Video](https://drive.google.com/file/d/your-demo-video-link-here)
+🔗 [Watch Demo Video](https://drive.google.com/file/d/1tB--dsIO2X-vq6R09lSZ4RX9gMnKa0-b/view?usp=sharing)
 
-
+---
 
 ## 🚀 Deployment
 
@@ -165,13 +165,15 @@ A walkthrough video of the working chatbot is available here:
 - **Backend:** Deployed via `vercel.json` in the backend folder
 - **AI Models:** Configured and deployed via **Google AI Studio** using Gemini 1.5 Flash
 
-
-
 ---
-
 
 ## 📄 License
 
 This project is licensed under the **MIT License**.
 🔗 [MIT LICENSE](https://github.com/abhaydixit07/multi-agent-real-estate-chatbot/blob/main/LICENSE)
 
+---
+
+## GitHub Link
+
+🔗 [GitHub Repository](https://github.com/abhaydixit07/multi-agent-real-estate-chatbot/)
