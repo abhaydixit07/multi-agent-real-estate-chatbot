@@ -510,6 +510,7 @@ function App() {
   const chatContainerRef = useRef(null);
   const messageInputRef = useRef(null);
 
+  const API_URL = import.meta.env.VITE_SOME_URL;
   // Auto-scroll to bottom of chat
   useEffect(() => {
     if (chatContainerRef.current) {
@@ -563,7 +564,7 @@ function App() {
     formData.append("history", JSON.stringify(agent1History));
   
     try {
-      const res = await axios.post("http://127.0.0.1:5000/api/agent1", formData, {
+      const res = await axios.post(`${API_URL}/api/agent1`, formData, {
         headers: {
           "Content-Type": "multipart/form-data",
         },
@@ -605,7 +606,7 @@ function App() {
     
     setIsLoading(true);
     try {
-      const res = await axios.post("http://localhost:5000/api/agent2", {
+      const res = await axios.post(`${API_URL}/api/agent2`, {
         query: agent2Text,
         location: agent2Location,
         history: agent2History
